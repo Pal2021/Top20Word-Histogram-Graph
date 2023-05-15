@@ -3,7 +3,7 @@
    - Imports:
      - React
      - useEffect from "react"
-     - useState from "react"![Screenshot (305)](https://github.com/Pal2021/Top20Word-Histogram-Graph/assets/96548592/6b1a86cc-57e5-4cfc-a1bb-57ab37cc0e9c)
+     - useState from "react"![Screenshot (305)]
 
      - Chart from "chart.js/auto"
 
@@ -25,4 +25,4 @@
 - webpack: A module bundler used for packaging JavaScript code and its dependencies.
 - Babel: A JavaScript compiler used for converting modern JavaScript code into backward-compatible versions.
 
-![Uploading Screenshot (305).png…]()
+(https://github.com/Pal2021/Top20Word-Histogram-Graph/assets/96548592/6b1a86cc-57e5-4cfc-a1bb-57ab37cc0e9c)
