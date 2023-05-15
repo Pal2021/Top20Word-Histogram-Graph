@@ -25,7 +25,7 @@
 - webpack: A module bundler used for packaging JavaScript code and its dependencies.
 - Babel: A JavaScript compiler used for converting modern JavaScript code into backward-compatible versions.
 
-
+ Netlify  Link-https://jazzy-rugelach-1e42bb.netlify.app/
 ![Screenshot (305)](https://github.com/Pal2021/Top20Word-Histogram-Graph/assets/96548592/8d23afa0-e0bc-4bf1-8be7-891fc7e13a89)
 
 
