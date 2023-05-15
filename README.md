@@ -26,5 +26,6 @@
 - Babel: A JavaScript compiler used for converting modern JavaScript code into backward-compatible versions.
 
 
+![Screenshot (305)](https://github.com/Pal2021/Top20Word-Histogram-Graph/assets/96548592/8d23afa0-e0bc-4bf1-8be7-891fc7e13a89)
 
-![Screenshot (305)](https://github.com/Pal2021/Top20Word-Histogram-Graph/assets/96548592/9e02b830-dc8b-4103-8ee0-142ef816f0c9)
+
