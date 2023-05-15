@@ -3,7 +3,7 @@
    - Imports:
      - React
      - useEffect from "react"
-     - useState from "react"![Screenshot (305)]
+     - useState from "react"
 
      - Chart from "chart.js/auto"
 
